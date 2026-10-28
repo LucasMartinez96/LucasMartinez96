@@ -44,38 +44,43 @@ Trabalho e estudo na interseção entre **desenvolvimento web, automação, dash
 <sub>Esta lista apresenta tecnologias encontradas em projetos e estudos. Não representa certificações ou níveis declarados de proficiência.</sub>
 
 <a id="projetos-em-imagens"></a>
-## 🖼️ Projetos em imagens
+## 🖼️ SESÉ HUB · Galeria de projetos
 
-**Galeria de conceitos e interfaces relacionadas a projetos desenvolvidos e estudados.** O objetivo é apresentar o tipo de problema abordado e a proposta visual, sem publicar códigos, bases de dados, integrações ou conteúdo operacional.
+Uma seleção **visual** de ferramentas, dashboards e ambientes 3D. As imagens foram preparadas a partir de capturas reais, com informações operacionais protegidas. **Nenhum código, banco de dados, endpoint ou arquivo interno é disponibilizado.**
 
-### 01 · Control Tower e dashboards
+> **Privacidade:** capturas editadas para remover ou tornar ilegíveis números, nomes de clientes, identificadores de docas, posições e informações internas. A visualização é demonstrativa; não deve ser interpretada como relatório da operação.
 
-<div align="center">
-  <img src="assets/controle-tower-ilustracao.png" alt="Ilustração conceitual de painel de indicadores e acompanhamento operacional" width="94%" />
-</div>
+### 01 · Control Tower — Visão Executiva
 
-Interfaces voltadas à **leitura de indicadores, organização visual de informações e acompanhamento de fluxos** em uma experiência centralizada.
+<p align="center"><img src="assets/sese-hub-control-tower.jpg" alt="Tela real do painel executivo com informações operacionais ocultadas" width="96%"></p>
 
-### 02 · Ocupação 3D e visualização de armazenagem
+Painel centralizado que organiza indicadores, jornal com IA e sinais de acompanhamento em uma leitura executiva.
 
-<div align="center">
-  <img src="assets/ocupacao-3d-ilustracao.png" alt="Ilustração conceitual de estruturas e posições de armazenamento em 3D" width="94%" />
-</div>
+### 02 · Inventário Cíclico
 
-Representação visual de **estruturas de estoque e espaços de armazenagem**, com foco em clareza, navegação e compreensão do ambiente.
+<p align="center"><img src="assets/sese-hub-inventario-ciclico.jpg" alt="Tela real de inventário cíclico com dados ocultados" width="96%"></p>
 
-### 03 · Pátio e expedição 3D
+Visualização de cobertura, frequência e acompanhamento de contagens por classificação de materiais.
 
-<div align="center">
-  <img src="assets/patio-expedicao-ilustracao.png" alt="Ilustração conceitual de pátio logístico com caminhões" width="94%" />
-</div>
+### 03 · Pátio e Expedição 3D
 
-Experimentação com **cenários tridimensionais, caminhões e interfaces operacionais** para apresentar processos de forma intuitiva.
+<p align="center"><img src="assets/sese-hub-patio-3d.jpg" alt="Cena real em 3D com caminhões, docas e empilhadeiras, com identificadores substituídos" width="96%"></p>
 
-> **Transparência e privacidade:** as três imagens acima são **ilustrações conceituais**, não capturas dos sistemas reais. Os projetos operacionais permanecem privados. Capturas reais só serão publicadas quando houver autorização e após revisão de possíveis dados confidenciais.
+Cenário tridimensional representando docas, caminhões e empilhadeiras, sem identificação de clientes ou veículos.
+
+### 04 · Ocupação de Estoque 3D
+
+<p align="center"><img src="assets/sese-hub-ocupacao-3d.jpg" alt="Cena real de visualização de estanterias em 3D com endereços ocultados" width="96%"></p>
+
+Visualização espacial de estruturas de armazenamento e ocupação com foco em navegação e identificação visual.
+
+### 05 · Jornal IA e Análise Operacional
+
+<p align="center"><img src="assets/sese-hub-jornal-ia.jpg" alt="Tela real de análises gráficas com números e dados confidenciais ocultados" width="96%"></p>
+
+Experimentos em síntese visual, séries temporais e acompanhamento de indicadores para apoiar a leitura operacional.
 
 ---
-
 ## ✨ Como gosto de construir soluções
 
 | 🎨 Interface e UX | 📊 Dados e dashboards | ⚙️ Automação |
