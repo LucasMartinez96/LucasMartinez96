@@ -1,54 +1,104 @@
-<p align="center">
-  <img src="assets/lucas-martinez-pixel.png" alt="Lucas Martinez em pixel art, com tecnologia e logística" width="100%" />
-</p>
+<div align="center">
 
-<h1 align="center">Olá, eu sou Lucas Martinez 👋</h1>
-<p align="center"><strong>Desenvolvimento de software · Automação · Inteligência Artificial · Dashboards</strong></p>
-<p align="center">Transformo desafios reais em experiências digitais, interfaces e soluções úteis.</p>
+<img src="assets/lucas-martinez-pixel.png" alt="Lucas Martinez — identidade visual pixel art com tecnologia e logística" width="100%" />
 
----
+# Olá, eu sou Lucas Martinez 👋
 
-### 👨‍💻 Sobre mim
+**Desenvolvimento de software · Automação · Inteligência Artificial · Visualização de dados**
 
-Sou apaixonado por tecnologia aplicada à prática. Desenvolvo e estudo soluções que combinam **interfaces web, automação, análise e visualização de dados, inteligência artificial e organização de processos**. Minha experiência na construção de ferramentas e dashboards está ligada especialmente à melhoria de fluxos e à transformação de informações complexas em telas mais simples e eficientes.
+Transformando desafios do dia a dia em interfaces, ferramentas e experiências digitais.
 
-Tenho interesse em evoluir continuamente como desenvolvedor: da ideia e prototipação até os testes, a melhoria de usabilidade e a manutenção das soluções.
+<a href="#sobre-mim">Sobre mim</a> • <a href="#tecnologias">Tecnologias</a> • <a href="#projetos-em-imagens">Projetos</a> • <a href="#contato">Contato</a>
 
-### 🛠️ Áreas e tecnologias presentes nos meus projetos
-
-**Interfaces:** HTML, CSS, JavaScript, React e TypeScript  
-**Aplicações e serviços:** Python, Node.js e APIs  
-**Dados e automação:** dashboards, integração de informações e inteligência artificial  
-**Práticas:** Git, GitHub, documentação técnica e design responsivo
-
-### 🖼️ Galeria visual de projetos
-
-Os projetos operacionais abaixo são apresentados **somente por representações visuais**. Seus códigos, bancos de dados, integrações, arquivos internos e informações de produção não são disponibilizados publicamente.
-
-> **Nota de transparência:** as imagens seguintes são **ilustrações conceituais**, e não capturas originais dos sistemas. Imagens reais só devem ser incluídas após autorização e remoção de dados confidenciais.
-
-#### Control Tower — painel operacional
-
-<p align="center"><img src="assets/controle-tower-ilustracao.png" width="100%" alt="Ilustração conceitual de painel operacional" /></p>
-
-Design de dashboards para apresentar indicadores e fluxos de informação em telas de acompanhamento.
-
-#### Ocupação 3D — visualização de estoque
-
-<p align="center"><img src="assets/ocupacao-3d-ilustracao.png" width="100%" alt="Ilustração conceitual de ocupação 3D" /></p>
-
-Visualização de estruturas e espaços de armazenagem em interfaces de leitura intuitiva.
-
-#### Pátio e Expedição 3D
-
-<p align="center"><img src="assets/patio-expedicao-ilustracao.png" width="100%" alt="Ilustração conceitual de pátio e caminhões" /></p>
-
-Representação visual de etapas logísticas, caminhões e estruturas de expedição.
+</div>
 
 ---
 
-### 🎯 Meu objetivo
+<a id="sobre-mim"></a>
+## 👨‍💻 Sobre mim
 
-Criar software que resolva problemas concretos, com atenção a qualidade visual, facilidade de uso, confiabilidade e evolução contínua.
+Gosto de conectar **tecnologia, análise de dados e problemas reais**. Meu foco está no desenvolvimento de soluções digitais que facilitem a visualização de informações, a organização de atividades e o acompanhamento de processos.
 
-<p align="center"><em>Projetos reais. Aprendizado constante. Tecnologia com propósito.</em></p>
+Trabalho e estudo na interseção entre **desenvolvimento web, automação, dashboards, logística e inteligência artificial**. Tenho especial interesse em interfaces bem construídas, boa usabilidade e evolução contínua dos projetos.
+
+> **Meu princípio:** tecnologia útil, comunicação visual clara e aprendizado constante.
+
+<a id="tecnologias"></a>
+## 🧰 Tecnologias presentes nos meus projetos
+
+<div align="center">
+
+<img alt="HTML5" src="https://img.shields.io/badge/HTML5-0B1730?style=for-the-badge&logo=html5&logoColor=E34F26" />
+<img alt="CSS3" src="https://img.shields.io/badge/CSS3-0B1730?style=for-the-badge&logo=css&logoColor=1572B6" />
+<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-0B1730?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-0B1730?style=for-the-badge&logo=typescript&logoColor=3178C6" />
+<img alt="React" src="https://img.shields.io/badge/React-0B1730?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img alt="Node.js" src="https://img.shields.io/badge/Node.js-0B1730?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E" />
+<img alt="Python" src="https://img.shields.io/badge/Python-0B1730?style=for-the-badge&logo=python&logoColor=3776AB" />
+<img alt="Git" src="https://img.shields.io/badge/Git-0B1730?style=for-the-badge&logo=git&logoColor=F05032" />
+<img alt="GitHub" src="https://img.shields.io/badge/GitHub-0B1730?style=for-the-badge&logo=github&logoColor=FFFFFF" />
+<img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-0B1730?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
+
+</div>
+
+<sub>Esta lista apresenta tecnologias encontradas em projetos e estudos. Não representa certificações ou níveis declarados de proficiência.</sub>
+
+<a id="projetos-em-imagens"></a>
+## 🖼️ Projetos em imagens
+
+**Galeria de conceitos e interfaces relacionadas a projetos desenvolvidos e estudados.** O objetivo é apresentar o tipo de problema abordado e a proposta visual, sem publicar códigos, bases de dados, integrações ou conteúdo operacional.
+
+### 01 · Control Tower e dashboards
+
+<div align="center">
+  <img src="assets/controle-tower-ilustracao.png" alt="Ilustração conceitual de painel de indicadores e acompanhamento operacional" width="94%" />
+</div>
+
+Interfaces voltadas à **leitura de indicadores, organização visual de informações e acompanhamento de fluxos** em uma experiência centralizada.
+
+### 02 · Ocupação 3D e visualização de armazenagem
+
+<div align="center">
+  <img src="assets/ocupacao-3d-ilustracao.png" alt="Ilustração conceitual de estruturas e posições de armazenamento em 3D" width="94%" />
+</div>
+
+Representação visual de **estruturas de estoque e espaços de armazenagem**, com foco em clareza, navegação e compreensão do ambiente.
+
+### 03 · Pátio e expedição 3D
+
+<div align="center">
+  <img src="assets/patio-expedicao-ilustracao.png" alt="Ilustração conceitual de pátio logístico com caminhões" width="94%" />
+</div>
+
+Experimentação com **cenários tridimensionais, caminhões e interfaces operacionais** para apresentar processos de forma intuitiva.
+
+> **Transparência e privacidade:** as três imagens acima são **ilustrações conceituais**, não capturas dos sistemas reais. Os projetos operacionais permanecem privados. Capturas reais só serão publicadas quando houver autorização e após revisão de possíveis dados confidenciais.
+
+---
+
+## ✨ Como gosto de construir soluções
+
+| 🎨 Interface e UX | 📊 Dados e dashboards | ⚙️ Automação |
+| :--- | :--- | :--- |
+| Layouts responsivos e informação legível. | Indicadores e visualizações organizadas. | Redução de etapas manuais e padronização de fluxos. |
+
+| 🧠 Inteligência artificial | 🧩 Integração | 🔄 Evolução contínua |
+| :--- | :--- | :--- |
+| Exploração de aplicações práticas de IA. | Conexão entre interfaces e serviços. | Testes, documentação e melhorias graduais. |
+
+## 📚 Em desenvolvimento contínuo
+
+Aprofundo meus conhecimentos em **engenharia de software, Git/GitHub, interfaces web, automação e aplicações com IA**, sempre buscando transformar estudo em projetos práticos. As informações deste perfil se limitam ao que pode ser apresentado publicamente.
+
+<a id="contato"></a>
+## 🤝 Contato
+
+Quer conversar sobre tecnologia, desenvolvimento de software, automação ou oportunidades profissionais?
+
+<div align="center">
+
+[![GitHub - LucasMartinez96](https://img.shields.io/badge/Conhe%C3%A7a%20meu%20GitHub-LucasMartinez96-0969DA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LucasMartinez96)
+
+**Projetos reais · Aprendizado constante · Tecnologia com propósito**
+
+</div>
