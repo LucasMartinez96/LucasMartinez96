@@ -80,6 +80,20 @@ Visualização espacial de estruturas de armazenamento e ocupação com foco em 
 
 Experimentos em síntese visual, séries temporais e acompanhamento de indicadores para apoiar a leitura operacional.
 
+### 06 · Forno & Estoque — Gestão Inteligente para Pizzaria
+
+<p align="center">
+  <a href="https://lucasmartinez96.github.io/forno-estoque.html">
+    <img src="assets/forno-estoque-hd.webp" alt="Apresentação do sistema Forno & Estoque: catálogo de insumos, controle de estoque, lista de compras e alertas automáticos pelo Telegram" width="96%">
+  </a>
+</p>
+
+Projeto independente de gestão de estoque para pizzaria, com controle de produtos, categorias, fornecedores, custos e movimentações. A solução considera estoque mínimo e máximo, sugere quantidades para reposição e envia **alertas automáticos pelo Telegram**.
+
+**Tecnologias:** React · TypeScript · API REST · Supabase / PostgreSQL · Telegram Bot · Render.
+
+[**Conhecer o projeto e seu estudo de caso**](https://lucasmartinez96.github.io/forno-estoque.html) · Código-fonte privado.
+
 ---
 ## ✨ Como gosto de construir soluções
 
