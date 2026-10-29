@@ -44,7 +44,7 @@ Trabalho e estudo na interseção entre **desenvolvimento web, automação, dash
 <sub>Esta lista apresenta tecnologias encontradas em projetos e estudos. Não representa certificações ou níveis declarados de proficiência.</sub>
 
 <a id="projetos-em-imagens"></a>
-## 🖼️ SESÉ HUB · Galeria de projetos
+## 🖼️ · Galeria de projetos
 
 Uma seleção **visual** de ferramentas, dashboards e ambientes 3D. As imagens foram preparadas a partir de capturas reais, com informações operacionais protegidas. **Nenhum código, banco de dados, endpoint ou arquivo interno é disponibilizado.**
 
