@@ -8,6 +8,8 @@
 
 Transformando desafios do dia a dia em interfaces, ferramentas e experiências digitais.
 
+[🌐 **Acessar meu portfólio profissional**](https://lucas-martinez-portfolio.vercel.app/)
+
 <a href="#sobre-mim">Sobre mim</a> • <a href="#tecnologias">Tecnologias</a> • <a href="#projetos-em-imagens">Projetos</a> • <a href="#contato">Contato</a>
 
 </div>
@@ -83,7 +85,7 @@ Experimentos em síntese visual, séries temporais e acompanhamento de indicador
 ### 06 · Forno & Estoque — Gestão Inteligente para Pizzaria
 
 <p align="center">
-  <a href="https://lucasmartinez96.github.io/forno-estoque.html">
+  <a href="https://lucas-martinez-portfolio.vercel.app/forno-estoque.html">
     <img src="assets/forno-estoque-hd.webp" alt="Apresentação do sistema Forno & Estoque: catálogo de insumos, controle de estoque, lista de compras e alertas automáticos pelo Telegram" width="96%">
   </a>
 </p>
@@ -92,7 +94,7 @@ Projeto independente de gestão de estoque para pizzaria, com controle de produt
 
 **Tecnologias:** React · TypeScript · API REST · Supabase / PostgreSQL · Telegram Bot · Render.
 
-[**Conhecer o projeto e seu estudo de caso**](https://lucasmartinez96.github.io/forno-estoque.html) · Código-fonte privado.
+[**Conhecer o projeto e seu estudo de caso**](https://lucas-martinez-portfolio.vercel.app/forno-estoque.html) · Código-fonte privado.
 
 ---
 ## ✨ Como gosto de construir soluções
