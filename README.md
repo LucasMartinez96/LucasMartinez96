@@ -48,9 +48,9 @@ Trabalho e estudo na interseção entre **desenvolvimento web, automação, dash
 <a id="projetos-em-imagens"></a>
 ## 🖼️ · Galeria de projetos
 
-Uma seleção **visual** de dashboards, interfaces e ambientes 3D. As imagens originais de apresentação dos projetos foram mantidas com detalhes operacionais protegidos. **Nenhum código, banco de dados, endpoint ou arquivo interno é disponibilizado.**
+Uma seleção **visual** de dashboards, interfaces e ambientes 3D, incluindo projetos independentes. As capturas operacionais são apresentadas com identificação da empresa ocultada. **Nenhum código, banco de dados, endpoint ou arquivo interno é disponibilizado.**
 
-> **Privacidade:** as capturas originais têm detalhes operacionais desfocados. Não identificam a empresa e não devem ser interpretadas como relatório público da operação.
+> **Privacidade:** imagens dos projetos preparadas para ocultar a identidade da empresa, sem representar relatórios públicos. Conteúdos de sistemas internos, credenciais e repositórios privados não são disponibilizados.
 
 ### 01 · Control Tower — Visão Executiva
 
@@ -96,6 +96,12 @@ Projeto independente de gestão de estoque para pizzaria, com controle de produt
 
 [**Conhecer o projeto e seu estudo de caso**](https://lucas-martinez-portfolio.vercel.app/forno-estoque.html) · Código-fonte privado.
 
+### 07 · Gás & Condomínio — Gestão de Água e Gás
+
+**Projeto independente com repositório privado.** Sistema para gerenciar fechamentos mensais, contas de concessionárias, leituras de medidores, consumo, pendências e divergências, com relatórios e histórico para conferência.
+
+**Tecnologias:** Node.js · Express · PostgreSQL / Supabase · API REST · Automação. Nenhum código, conta ou informação de condomínios é divulgado publicamente.
+
 ---
 ## ✨ Como gosto de construir soluções
 
@@ -106,6 +112,11 @@ Projeto independente de gestão de estoque para pizzaria, com controle de produt
 | 🧠 Inteligência artificial | 🧩 Integração | 🔄 Evolução contínua |
 | :--- | :--- | :--- |
 | Exploração de aplicações práticas de IA. | Conexão entre interfaces e serviços. | Testes, documentação e melhorias graduais. |
+
+## 🎓 Formação acadêmica
+
+**Análise e Desenvolvimento de Sistemas — Anhanguera**  
+Graduação em andamento · Início em **fevereiro de 2026**.
 
 ## 📚 Em desenvolvimento contínuo
 
