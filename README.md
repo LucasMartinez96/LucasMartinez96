@@ -98,6 +98,16 @@ Projeto independente de gestão de estoque para pizzaria, com controle de produt
 
 ### 07 · Gás & Condomínio — Gestão de Água e Gás
 
+<p align="center">
+  <a href="https://lucas-martinez-portfolio.vercel.app/#projetos">
+    <img src="assets/gas-condominio-dashboard.jpg" alt="Dashboard real de Gás e Condomínio com nomes de condomínios ocultos e demais indicadores visíveis" width="96%">
+  </a>
+</p>
+
+<p align="center">
+  <img src="assets/gas-condominio-operacoes.jpg" alt="Tela real da Central de Operações de Gás e Condomínio, com nomes de condomínios desfocados" width="96%">
+</p>
+
 **Projeto independente com repositório privado.** Sistema para gerenciar fechamentos mensais, contas de concessionárias, leituras de medidores, consumo, pendências e divergências, com relatórios e histórico para conferência.
 
 **Tecnologias:** Node.js · Express · PostgreSQL / Supabase · API REST · Automação. Nenhum código, conta ou informação de condomínios é divulgado publicamente.
