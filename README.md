@@ -128,6 +128,12 @@ Projeto independente de gestão de estoque para pizzaria, com controle de produt
 **Análise e Desenvolvimento de Sistemas — Anhanguera**  
 Graduação em andamento · Início em **fevereiro de 2026**.
 
+## 🏅 Certificações
+
+**Intermediate ChatGPT — DataCamp**  
+Concluído em **17 de novembro de 2026** · **1,8 créditos CPE** · Tecnologia da Informação.  
+Formação complementar em fundamentos de modelos GPT e engenharia de prompts.
+
 ## 📚 Em desenvolvimento contínuo
 
 Aprofundo meus conhecimentos em **engenharia de software, Git/GitHub, interfaces web, automação e aplicações com IA**, sempre buscando transformar estudo em projetos práticos. As informações deste perfil se limitam ao que pode ser apresentado publicamente.
