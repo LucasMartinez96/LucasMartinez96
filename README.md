@@ -130,6 +130,13 @@ Graduação em andamento · Início em **fevereiro de 2026**.
 
 ## 🏅 Certificações
 
+### AI Engineer for Developers Associate
+
+[![AI Engineer for Developers Associate — prévia gráfica](https://raw.githubusercontent.com/LucasMartinez96/LucasMartinez96.github.io/main/assets/ai-engineer-associate-preview.svg)](https://lucas-martinez-portfolio.vercel.app/#certificados)
+
+Certificação em engenharia de IA aplicada ao desenvolvimento. A arte acima é uma **prévia ilustrativa**, não o selo oficial. O badge original será incluído quando estiver hospedado no repositório.
+
+
 **Intermediate ChatGPT — DataCamp**  
 Concluído em **17 de novembro de 2026** · **1,8 créditos CPE** · Tecnologia da Informação.  
 Formação complementar em fundamentos de modelos GPT e engenharia de prompts.
