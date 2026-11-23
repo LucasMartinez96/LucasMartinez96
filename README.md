@@ -132,7 +132,7 @@ Graduação em andamento · Início em **fevereiro de 2026**.
 
 ### AI Engineer for Developers Associate
 
-[![AI Engineer for Developers Associate — imagem atualizada](https://raw.githubusercontent.com/LucasMartinez96/LucasMartinez96.github.io/main/assets/1795446729300.jpg)](https://lucas-martinez-portfolio.vercel.app/#certificados)
+<a href="https://www.datacamp.com/certificate/AIEDA0010329043674"><img src="https://raw.githubusercontent.com/LucasMartinez96/LucasMartinez96.github.io/main/assets/1795446729300.jpg" alt="Selo AI Engineer for Developers Associate" width="170"></a>
 
 Certificação em engenharia de IA aplicada ao desenvolvimento. **[Ver certificado oficial na DataCamp](https://www.datacamp.com/certificate/AIEDA0010329043674)** · ID `AIEDA0010329043674`.
 
