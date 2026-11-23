@@ -134,7 +134,7 @@ Graduação em andamento · Início em **fevereiro de 2026**.
 
 [![AI Engineer for Developers Associate — imagem atualizada](https://raw.githubusercontent.com/LucasMartinez96/LucasMartinez96.github.io/main/assets/1795446729300.jpg)](https://lucas-martinez-portfolio.vercel.app/#certificados)
 
-Certificação em engenharia de IA aplicada ao desenvolvimento. A imagem atualizada da certificação está exibida acima.
+Certificação em engenharia de IA aplicada ao desenvolvimento. **[Ver certificado oficial na DataCamp](https://www.datacamp.com/certificate/AIEDA0010329043674)** · ID `AIEDA0010329043674`.
 
 
 **Intermediate ChatGPT — DataCamp**  
