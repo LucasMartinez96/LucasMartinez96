@@ -132,9 +132,9 @@ Graduação em andamento · Início em **fevereiro de 2026**.
 
 ### AI Engineer for Developers Associate
 
-[![AI Engineer for Developers Associate — prévia gráfica](https://raw.githubusercontent.com/LucasMartinez96/LucasMartinez96.github.io/main/assets/ai-engineer-associate-preview.svg)](https://lucas-martinez-portfolio.vercel.app/#certificados)
+[![AI Engineer for Developers Associate — selo oficial](https://raw.githubusercontent.com/LucasMartinez96/LucasMartinez96.github.io/main/assets/AI_Engineer_Official_Badge.png)](https://lucas-martinez-portfolio.vercel.app/#certificados)
 
-Certificação em engenharia de IA aplicada ao desenvolvimento. A arte acima é uma **prévia ilustrativa**, não o selo oficial. O badge original será incluído quando estiver hospedado no repositório.
+Certificação em engenharia de IA aplicada ao desenvolvimento. O selo oficial da certificação está exibido acima.
 
 
 **Intermediate ChatGPT — DataCamp**  
